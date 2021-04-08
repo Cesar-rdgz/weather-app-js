@@ -4,6 +4,7 @@
 - API calls: A way to commmunicate with an applications.
 - Object shorthando notation: key and value same... just the one of those are enough.
 - Ternary operator: if/else abbr, with the syntax (statement) ? true : false;
+- Async Javascript.
 
 [LIVE VIEW](https://cesar-rdgz.github.io/weather-app-js/) 
 
